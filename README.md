@@ -70,6 +70,14 @@ cd ..
 ```
 
 After that, you should be able to run example scripts located under `src/aqua-sim-ng/examples/` folder.
+--------------------------------------
+## Netanim Installation
+```
+$ ./build.py
+$ cd netanim
+$ ./netanim
+```
+
 
 --------------------------------------
 ## Running Examples
