@@ -301,8 +301,5 @@ We implement adapted Named Data Networking (NDN) techniques alongside specialize
 Copyright (c) 2017 UWSN Lab at the University of Connecticut.
 All rights reserved.
 
-Robert Martin : <robert.martin@uconn.edu>
 
-Zheng Peng, Ph.D : <zheng@cs.ccny.cuny.edu>
 
-Dmitrii Dugaev : <ddugaev@gradcenter.cuny.edu>
